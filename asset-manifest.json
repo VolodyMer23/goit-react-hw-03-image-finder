@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VolodyMer23/goit-react-hw-03-image-finder/static/css/main.1083b3b2.css",
+    "main.js": "/VolodyMer23/goit-react-hw-03-image-finder/static/js/main.1a855367.js",
+    "index.html": "/VolodyMer23/goit-react-hw-03-image-finder/index.html",
+    "main.1083b3b2.css.map": "/VolodyMer23/goit-react-hw-03-image-finder/static/css/main.1083b3b2.css.map",
+    "main.1a855367.js.map": "/VolodyMer23/goit-react-hw-03-image-finder/static/js/main.1a855367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1083b3b2.css",
+    "static/js/main.1a855367.js"
+  ]
+}
